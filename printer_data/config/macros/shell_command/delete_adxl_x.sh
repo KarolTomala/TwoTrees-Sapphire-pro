@@ -1,0 +1,1 @@
+rm /tmp/calibration_data_x_*.csv
