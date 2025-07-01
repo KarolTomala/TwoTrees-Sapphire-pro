@@ -1,1 +1,0 @@
-rm -f /tmp/calibration_data_x_*.csv
